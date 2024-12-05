@@ -1,0 +1,92 @@
+/* General Styles for Product Item */
+.product-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1000px; 
+    margin: 30px;
+    padding: 25px;
+    background-color: #fff;
+    border-radius: 12px; /* Slightly larger border radius for a more modern look */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Stronger shadow for more emphasis */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .product-item:hover {
+    transform: translateY(-12px); /* Lift the item more when hovered */
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-item img {
+    width: 250px; 
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  .product-item img:hover {
+    transform: scale(1.1); /* Zoom in more on hover */
+  }
+  
+  .product-item h3 {
+    font-size: 1.4em; /* Bigger text size for product name */
+    margin-top: 20px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+    transition: color 0.3s ease;
+  }
+  
+  .product-item h3:hover {
+    color: #3498db; /* Change color on hover */
+  }
+  
+  /* Button (if you have any inside product item) */
+  .product-item button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product-item button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Styling for small screens (mobile-first approach) */
+  @media (max-width: 600px) {
+    .product-item {
+      width: 100%; /* Use full width on small screens */
+      margin: 15px;
+    }
+  
+    .product-item img {
+      max-width: 100%; /* Ensure image fills the available width */
+    }
+  
+    .product-item h3 {
+      font-size: 1.2em;
+    }
+  }
+  
+
+  @media (min-width: 601px) and (max-width: 1024px) {
+    .product-item {
+      width: 45%; 
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .product-item {
+      width: 22%; 
+    }
+  }
+  

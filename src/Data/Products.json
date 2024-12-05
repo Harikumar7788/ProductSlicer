@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung 32 Inch LED TV",
+    "image": "https://m.media-amazon.com/images/I/713i5dKk8SL.jpg",
+    "url": "product_url_1",
+    "description": "A stunning 32-inch LED TV with vibrant colors and crisp picture quality.",
+    "old_price": "₹24,999",
+    "new_price": "₹18,999",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "LG 43 Inch Smart LED TV",
+    "image": "https://dianora.in/wp-content/uploads/2023/02/24-normal-tv-dianora.png",
+    "url": "product_url_2",
+    "description": "Enjoy movies and shows in full HD with the LG 43-inch Smart LED TV.",
+    "old_price": "₹35,999",
+    "new_price": "₹29,999",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "name": "Sony 50 Inch 4K TV",
+    "image": "https://truvison.com/wp-content/uploads/2019/04/1.jpg",
+    "url": "product_url_3",
+    "description": "Experience cinematic visuals with this 50-inch 4K HDR Smart TV.",
+    "old_price": "₹45,000",
+    "new_price": "₹38,499",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Mi 43 Inch Full HD TV",
+    "image": "https://www.iqelectronics.in/wp-content/uploads/2023/02/IQ-24-Inches-FHD-TV.jpg",
+    "url": "product_url_4",
+    "description": "Mi's Full HD TV with crisp visuals and smart features.",
+    "old_price": "₹21,999",
+    "new_price": "₹18,499",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Samsung 55 Inch 4K Smart TV",
+    "image": "https://nacson.in/wp-content/uploads/2022/01/ns8016smart.jpg",
+    "url": "product_url_5",
+    "description": "A 55-inch 4K Smart TV for an ultra-high-definition viewing experience.",
+    "old_price": "₹55,000",
+    "new_price": "₹47,499",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "TCL 32 Inch HD Ready TV",
+    "image": "https://avnitv.in/wp-content/uploads/2023/05/24.jpg",
+    "url": "product_url_6",
+    "description": "TCL 32-inch HD Ready TV for a sharp and clear viewing experience.",
+    "old_price": "₹16,999",
+    "new_price": "₹13,999",
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "name": "Philips 43 Inch LED TV",
+    "image": "https://www.khoslaonline.com/wp-content/uploads/2024/02/24KGA-GIS-1.png",
+    "url": "product_url_7",
+    "description": "A 43-inch LED TV with excellent brightness and color accuracy.",
+    "old_price": "₹28,499",
+    "new_price": "₹23,999",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "LG 55 Inch OLED TV",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjsfTTBaiZ1YYezOp1Q0nsaM5cv0VeFlDAQ&s",
+    "url": "product_url_8",
+    "description": "LG's OLED TV with deep blacks and vibrant colors for a premium experience.",
+    "old_price": "₹1,10,000",
+    "new_price": "₹95,999",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Realme 10 Pro+",
+    "image": "https://cdn1.smartprix.com/rx-iVXvfCIp0-w1200-h1200/VXvfCIp0.jpg",
+    "url": "product_url_9",
+    "description": "Realme 10 Pro+ with a stunning curved AMOLED display and powerful performance.",
+    "old_price": "₹24,999",
+    "new_price": "₹21,999",
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy A14",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/NC/DY/JF/150755954/oppo-a16k-blue-smart-phone-500x500.png",
+    "url": "product_url_10",
+    "description": "Samsung Galaxy A14, a budget-friendly smartphone with a smooth performance.",
+    "old_price": "₹15,999",
+    "new_price": "₹13,499",
+    "rating": 4.1
+  },
+  {
+    "id": 11,
+    "name": "iPhone 14 Pro Max",
+    "image": "https://cdn1.smartprix.com/rx-iRaOOUrZt-w1200-h1200/RaOOUrZt.jpg",
+    "url": "product_url_11",
+    "description": "Apple iPhone 14 Pro Max, with a powerful A16 Bionic chip and stunning camera.",
+    "old_price": "₹1,39,999",
+    "new_price": "₹1,25,999",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "OnePlus 11",
+    "image": "https://28mobile.com/cdn/shop/files/2405cpx3dc-v_198x.jpg?v=1721620534",
+    "url": "product_url_12",
+    "description": "OnePlus 11 with a top-tier Snapdragon 8 Gen 2 chipset and ultra-fast charging.",
+    "old_price": "₹54,999",
+    "new_price": "₹49,999",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "name": "Redmi Note 12 Pro",
+    "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/05/OPPO-Reno-10.jpg",
+    "url": "product_url_13",
+    "description": "Redmi Note 12 Pro, featuring a 50MP camera and powerful MediaTek Dimensity processor.",
+    "old_price": "₹22,999",
+    "new_price": "₹19,999",
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "name": "Oppo A78",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxi4WKJeO8tB53Ba9YdryOssH8KpD67qGaGg&s",
+    "url": "product_url_14",
+    "description": "Oppo A78 with a large 5000mAh battery and a 90Hz refresh rate.",
+    "old_price": "₹17,999",
+    "new_price": "₹14,999",
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "Vivo V25 Pro",
+    "image": "https://i.pinimg.com/474x/30/08/83/3008834bdea2d9c7ff10cf8175f09d33.jpg",
+    "url": "product_url_15",
+    "description": "Vivo V25 Pro with a 120Hz AMOLED display and powerful performance.",
+    "old_price": "₹31,999",
+    "new_price": "₹28,499",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "name": "Xiaomi 13",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkz_hgZrglgD0x5eAVdtvn726QeykHOZMFHg&s",
+    "url": "product_url_16",
+    "description": "Xiaomi 13 featuring a Snapdragon 8 Gen 2 chipset and a brilliant AMOLED display.",
+    "old_price": "₹74,999",
+    "new_price": "₹69,999",
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "name": "HP Spectre x360",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAI1d4w3-YeYeE4qSWa-7s4NpDCkuwPIaj-eGXIa9TuucRRD0xawlSwsz8PHouAaKMouY&usqp=CAU",
+    "url": "product_url_17",
+    "description": "HP Spectre x360 laptop with ultra-long battery life and sleek design.",
+    "old_price": "₹1,29,999",
+    "new_price": "₹1,10,999",
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/f/z/r/15itl6-thin-and-light-laptop-lenovo-original-imah44ptjjhubfpn.jpeg?q=20&crop=false",
+    "url": "product_url_18",
+    "description": "Lenovo ThinkPad X1 Carbon, a lightweight and powerful business laptop.",
+    "old_price": "₹1,69,999",
+    "new_price": "₹1,55,999",
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "name": "Acer Aspire 5",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2024/06/cheapgaminglaptops-2048px-00163-2.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+    "url": "product_url_19",
+    "description": "Acer Aspire 5 with Intel i5, ideal for light gaming and office use.",
+    "old_price": "₹45,999",
+    "new_price": "₹39,499",
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "name": "Asus ROG Strix G15",
+    "image": "https://i5.walmartimages.com/asr/87beef18-d67c-4151-a156-f34263ed5ac4.fbff125b2aea31fffe57c1a71443e0af.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "url": "product_url_20",
+    "description": "Asus ROG Strix G15 gaming laptop with NVIDIA RTX graphics and fast refresh rate.",
+    "old_price": "₹1,19,999",
+    "new_price": "₹1,09,999",
+    "rating": 4.5
+  },
+  {
+    "id": 21,
+    "name": "HP Pavilion x360",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRudtWSeV09lQ2L4u7oljABo8aveij8dDCq_Mn1Vo8Rmspu0ztl96fTeMIypSbmiqAL_jo&usqp=CAU",
+    "url": "product_url_21",
+    "description": "HP Pavilion x360 2-in-1 laptop with Intel Core i7 and 16GB RAM.",
+    "old_price": "₹74,999",
+    "new_price": "₹68,999",
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "name": "Asus VivoBook 15",
+    "image": "https://i5.walmartimages.com/asr/87beef18-d67c-4151-a156-f34263ed5ac4.fbff125b2aea31fffe57c1a71443e0af.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "url": "product_url_22",
+    "description": "Asus VivoBook 15 laptop with Ryzen 5 processor and Full HD display.",
+    "old_price": "₹50,999",
+    "new_price": "₹46,499",
+    "rating": 4.3
+  },
+  {
+    "id": 23,
+    "name": "Lenovo Legion 5 Pro",
+    "image": "https://m.media-amazon.com/images/I/81zlTa1HP6S._AC_UF894,1000_QL80_.jpg",
+    "url": "product_url_23",
+    "description": "Lenovo Legion 5 Pro gaming laptop with Ryzen 7 and NVIDIA GeForce RTX 3060.",
+    "old_price": "₹1,20,000",
+    "new_price": "₹1,05,000",
+    "rating": 4.8
+  },
+  {
+    "id": 24,
+    "name": "Acer Predator Helios 300",
+    "image": "https://m.media-amazon.com/images/I/61-9M-wUoAL._AC_UF1000,1000_QL80_.jpg",
+    "url": "product_url_24",
+    "description": "Acer Predator Helios 300 laptop with Intel i7, 16GB RAM, and 144Hz display.",
+    "old_price": "₹1,40,000",
+    "new_price": "₹1,25,000",
+    "rating": 4.6
+  }
+]
